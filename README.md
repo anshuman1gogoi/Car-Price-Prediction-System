@@ -5,13 +5,13 @@ This project analyzes car prices based on the attached dataset and predicts the 
 
 ### 🚗 Features
 
-*🔮 Car Price Prediction: Predicts the estimated resale price of a car based on brand, year, kilometers driven, fuel type, seller type, transmission, and ownership history.
+* 🔮 Car Price Prediction: Predicts the estimated resale price of a car based on brand, year, kilometers driven, fuel type, seller type, transmission, and ownership history.
 
-*🧹 Data Preprocessing Pipeline: Cleans the car brand names, removes duplicate records, and encodes categorical features like fuel, seller type, transmission, and owner for model training and inference.
+* 🧹 Data Preprocessing Pipeline: Cleans the car brand names, removes duplicate records, and encodes categorical features like fuel, seller type, transmission, and owner for model training and inference.
 
-*📊 Machine Learning Model: Uses a Linear Regression model trained on the car details dataset to estimate selling prices from structured vehicle attributes.
+* 📊 Machine Learning Model: Uses a Linear Regression model trained on the car details dataset to estimate selling prices from structured vehicle attributes.
 
-*🌐 Streamlit Web App: Provides an interactive interface with select boxes and sliders so users can input car details and get instant price predictions in the browser.
+* 🌐 Streamlit Web App: Provides an interactive interface with select boxes and sliders so users can input car details and get instant price predictions in the browser.
 
 ### 🛠️ Technologies Used
 
